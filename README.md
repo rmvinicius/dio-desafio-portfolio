@@ -1,2 +1,3 @@
-# dio-desafio-portfolio
-Projeto que apresenta uma home de contato utilizando transitions apenas com css
+# APRESENTAÇÃO DE UMA PÁGINA PESSOAL COM TRANSITIONS
+
+ * Projeto de apresentação pessoal, utilizando transitions do css, e todas as animações sem JS.
