@@ -1,3 +1,3 @@
-# APRESENTAÇÃO DE UMA PÁGINA PESSOAL COM TRANSITIONS
+# DESINGN DE PORTFOLIO
 
- * Projeto de apresentação pessoal, utilizando transitions do css, e todas as animações sem JS.
+ * Projeto de apresentação de portfolio utilizando transitions
